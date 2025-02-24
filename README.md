@@ -9,10 +9,6 @@ A Data Science specialist with a focus on Computer Vision, Machine Learning, and
 - 🔥 Currently working on **Deep Learning and Computer Vision projects**.  
 - 🌱 Learning **advanced models like Transformers and GANs**.  
 - 👯 Interested in collaborating on **AI and Image Processing projects**.  
-- 💌 Reach me at:  
-  - 📧 **Email**: ar9227541@gmail.com  
-  - 🔗 **LinkedIn**: [abdo-ragab](https://www.linkedin.com/in/abdo-ragab-%E5%AE%89%E5%90%9B%E5%90%88-02b47627a)  
-  - 🐍 **GitHub**: [AbdoRagab](https://github.com/AbdoRagab)  
 
 ---  
 
