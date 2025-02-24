@@ -43,3 +43,24 @@ A Data Science specialist with a focus on Computer Vision, Machine Learning, and
 ### 🎯 **Current Goal**  
 🚀 **To become a professional Deep Learning & Computer Vision Engineer and contribute to developing intelligent solutions that benefit society!**
 
+## 📬 Contact Me
+
+If you’d like to collaborate or have any inquiries, feel free to reach out through any of the following channels:
+
+<p align="center">
+  <a href="mailto:ar9227541@gmail.com">
+    <img src="https://img.shields.io/badge/📧 Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/abd-el-rahman-ragab-02b47627a">
+    <img src="https://img.shields.io/badge/🔗 LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/AbdoRagab">
+    <img src="https://img.shields.io/badge/🐙 GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+🚀 **Portfolio**: *Coming Soon...*
+
+Let's connect and build something amazing together! 🤝
+
+
