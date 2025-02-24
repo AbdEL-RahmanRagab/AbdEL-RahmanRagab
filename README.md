@@ -13,7 +13,7 @@ A Data Science specialist with a focus on Computer Vision, Machine Learning, and
 ---  
 
 ## 🚀 **Technical Skills**  
-### **Data Science & AI Expertise**  
+### **Data Science & AI **  
 - Data Analysis & Preprocessing  
 - Machine Learning & Deep Learning  
 - Computer Vision & Image Processing  
